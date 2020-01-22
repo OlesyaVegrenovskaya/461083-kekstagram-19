@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Olesya Vegrenovskaya](https://up.htmlacademy.ru/javascript/19/user/461083).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Тимоновский].
 
 ---
 
